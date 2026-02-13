@@ -19,12 +19,7 @@ build/
 .ipynb_checkpoints/
 *.ipynb_checkpoints
 
-# Data files (don't upload large files)
-*.csv
-data/*.csv
-data/*.txt
 Butterfly_images/
-*.pdf
 
 # OS
 .DS_Store
