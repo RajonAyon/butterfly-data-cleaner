@@ -1,0 +1,36 @@
+notepad .gitignore
+```
+
+**Copy-paste this:**
+```
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+*.egg-info/
+dist/
+build/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Data files (don't upload large files)
+*.csv
+data/*.csv
+data/*.txt
+Butterfly_images/
+*.pdf
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+.history/
