@@ -9,7 +9,7 @@
 
 
 <p align="center">
-  <img src="__Screenshot 2026-02-14 183538.png__" alt="Sample Data Output" width="800"/>
+  <img src="Screenshot 2026-02-14 183538.png" alt="Sample Data Output" width="800"/>
   <br/>
   <em>Example of cleaned, structured biodiversity observations</em>
 </p>
