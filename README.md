@@ -7,6 +7,22 @@
 **Quick Links:** [Installation](#-quick-start) | [Usage](#usage) | [Examples](#-example-transformations) | [Contact](#-contact)
 
 
+
+<p align="center">
+  <img src="__Screenshot 2026-02-14 183538.png__" alt="Sample Data Output" width="800"/>
+  <br/>
+  <em>Example of cleaned, structured biodiversity observations</em>
+</p>
+
+**Project Repository:**
+
+<p align="center">
+  <img src="Screenshot 2026-02-14 183556.png" alt="Project Structure" width="800"/>
+  <br/>
+  <em>Complete codebase with modular architecture</em>
+</p>
+
+
 > Automated pipeline for extracting structured biodiversity data from unstructured social media posts for ecological research.
 
 ## 🌟 Why This Project?
